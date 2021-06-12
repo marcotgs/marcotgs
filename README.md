@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-gualberto/)](https://www.linkedin.com/in/marco-gualberto/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcot.gualberto@gmail.com)](mailto:marcot.gualberto@gmail.com)
 
-I'm Marco, a brazilian 🇧🇷 Software Engineer, currently living  in Poland 🇵🇱 focused on frontend development and cloud computing (serveless 🧡).
+I'm Marco, a brazilian 🇧🇷 Software Engineer, currently living in Brazil 🇧🇷 focused on frontend development and cloud computing (serveless 🧡).
 
 - 🔭 I’m currently working on [@Epam](https://www.epam.com/)!
 - 💻 I'm currently working with ReactJs and NodeJs.
