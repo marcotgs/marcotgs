@@ -6,7 +6,7 @@
 
 I'm Marco, a brazilian 🇧🇷 Software Engineer, currently living in Brazil 🇧🇷 focused on frontend development and cloud computing (serveless 🧡).
 
-- 🔭 I’m currently working on [@Epam](https://www.epam.com/)!
+- 🔭 I’m currently working on [@Appcues](https://www.appcues.com/)!
 - 💻 I'm currently working with ReactJs and NodeJs.
 - 🌱 I’m currently learning Python and Unity!
 - 🕹️ I'm currently developing a coop-game to ask my girlfriend to marry me ❤️.
